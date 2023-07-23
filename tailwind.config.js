@@ -49,6 +49,9 @@ module.exports = {
           900: '#025929',
         },
       },
+      blur: {
+        full: '194px',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
